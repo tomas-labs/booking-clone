@@ -5,7 +5,7 @@ function LoadingResults() {
     <section>
       <div className="mx-auto max-w-7xl">
         <p className="text-center animate-pulse font-bold text-[#013B94] pt-10">
-          Sit tight - were just scanning the market for the best deals!
+          Please hold on while we conduct a market analysis to identify the best deals! 😄
         </p>
       </div>
 

@@ -102,7 +102,7 @@ function SearchForm() {
                 <FormMessage />
 
                 <FormControl>
-                  <Input placeholder="London, UK" {...field} />
+                  <Input placeholder="Viana do Castelo, Porto..." {...field} />
                 </FormControl>
               </FormItem>
             )}
